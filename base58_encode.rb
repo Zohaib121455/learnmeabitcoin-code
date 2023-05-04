@@ -1,8 +1,9 @@
 def base58_encode(hex)
   @chars = %w[
-      1 2 3 4 5 6 7 8 9
-    A B C D E F G H   J K L M N   P Q R S T U V W X Y Z
-    a b c d e f g h i j k   m n o p q r s t u v w x y z
+     5a23ef79a74fd475808f33daa8047593cb8c37b9073f3de84a54d373837766e5
+    
+    
+   
 ]
   @base = @chars.length
 
